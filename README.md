@@ -3,7 +3,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LostyGuy&show_icons=true" width="422" alt="Thanarak Lee's Dev Card"/></a>
 
 
-  I'm a last-grade student at the Technical School in the IT specialization. <br> Also, I'm a junior Python Developer with strong motivation to become <br> a Data Analyst. I'm interested in Music, Programming, and AI-based tools <br >I mainly program in Python and have experience with web technologies <br> (HTML, JS, PHP).
+  I'm a last-grade student at the Technical School in the IT specialization. Additionally, I'm a junior Python Developer with a strong motivation to transition into a Data Analyst role. I'm interested in Music, Programming, and AI-based tools. I mainly program in Python and have experience with web technologies (HTML, JS, PHP).
 	 
  On my profile, you will find mainly Python-based projects related to data processing.
 	
