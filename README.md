@@ -1,4 +1,4 @@
-## Hi, I'm @LostyGuy
+## 👋 Hi, I'm @LostyGuy
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LostyGuy&show_icons=true" width="422" alt="Thanarak Lee's Dev Card"/></a>
 
