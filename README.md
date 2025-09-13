@@ -23,6 +23,13 @@
 
   Or send me an e-mail to: lostyguycontacts@gmail.com
 
+  ### 🛠 Tech Stack & Skills
+  I keep a dedicated repo where I document the technologies I know,  
+  with links to projects where I’ve applied them and my self-assessment of proficiency.  
+
+   * [Tech Stack & Skills Repo](https://github.com/LostyGuy/Tech-Stack)
+
+
 
 <!---
 LostyGuy/LostyGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
