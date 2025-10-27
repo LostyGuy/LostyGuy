@@ -7,9 +7,14 @@
 	 
  On my profile, you will find mainly Python-based projects related to data processing.
 	
-  Here are my favourites:
-   * [Order Management System](https://github.com/LostyGuy/Order-Management-System) ![Static Badge](https://img.shields.io/badge/Django--green?style=for-the-badge&logo=django&logoColor=%23092E20) ![Static Badge](https://img.shields.io/badge/FastAPI--lightgreen?style=for-the-badge&logo=fastapi&logoColor=%23009688) ![Static Badge](https://img.shields.io/badge/SQLAlchemy--red?style=for-the-badge&logo=sqlalchemy&logoColor=%23D71F00)
+  Here are my favorites:
+   * [Order Management System](https://github.com/LostyGuy/Order-Management-System) ![Static Badge](https://img.shields.io/badge/FastAPI--lightgreen?style=for-the-badge&logo=fastapi&logoColor=%23009688) ![Static Badge](https://img.shields.io/badge/Django--green?style=for-the-badge&logo=django&logoColor=%23092E20) ![Static Badge](https://img.shields.io/badge/SQLAlchemy--red?style=for-the-badge&logo=sqlalchemy&logoColor=%23D71F00)
    * [Are you asleep?](https://github.com/LostyGuy/Are-you-asleep)  ![Static Badge](https://img.shields.io/badge/Tkinter--lightgrey?style=for-the-badge)
+
+Other cool non-python repos:
+   * [Pocket TimeTable App](https://github.com/LostyGuy/Timetable-Grid-App) ![Static Badge](https://img.shields.io/badge/Dart--White?style=for-the-badge&logo=dart&color=%230175C2) ![Static Badge](https://img.shields.io/badge/Flutter--White?style=for-the-badge&logo=flutter&color=%2302569B) ![Static Badge](https://img.shields.io/badge/HTML--White?style=for-the-badge&logo=html5&color=%23E34F26) 
+
+
 
 
   I’m open to collaborating on projects using Python libraries such as FastAPI, PyTorch, and Pandas.
