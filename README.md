@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm @LostyGuy
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LostyGuy&show_icons=true" width="422" alt="Thanarak Lee's Dev Card"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats-psi-ruddy-54.vercel.app/api?username=LostyGuy&show_icons=true" width="422" alt="Thanarak Lee's Dev Card"/></a>
 
 
   I'm a last-grade student at the Technical School in the IT specialization. Additionally, I'm a junior Python Developer with a strong motivation to transition into a Data Analyst role. I'm interested in Music, Programming, and AI-based tools. I mainly program in Python and have experience with web technologies (HTML, JS, PHP).
