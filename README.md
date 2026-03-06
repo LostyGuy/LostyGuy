@@ -3,7 +3,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats2-pied-three.vercel.app/api?username=LostyGuy&show_icons=true" width="422" alt="Thanarak Lee's Dev Card"/></a>
 
 
-  I'm a last-grade student at the Technical School in the IT specialization. Additionally, I'm a junior Python Developer with a strong motivation to transition into a Data Analyst role. I'm interested in Music, Programming, and AI-based tools. I mainly program in Python and have experience with web technologies (HTML, JS, PHP).
+  Focusing on building a scalable backend in FastAPI and asynchronous programming. Due to outstanding technical exam ratings (94% and 95) I possess both the knowledge and practical experience in IT and software development. Despite that, I'm optimizing PostgreSQL databases,maintaining REST architecture, and app security (JWT).
 	 
   On my profile, you will find mainly Python-based projects related to data processing.
 	
