@@ -6,11 +6,14 @@
   Focusing on building a scalable backend in FastAPI and asynchronous programming. Due to outstanding technical exam ratings (94% and 95%) I possess both the knowledge and practical experience in IT and software development. Despite that, I'm optimizing PostgreSQL databases,maintaining REST architecture, and app security (JWT).
 	 
   On my profile, you will find mainly Python-based projects related to data processing.
-	
-  Here are my favorites:
+
+  Absolute GOAT:
+   * [Uni Schedule](https://github.com/LostyGuy/Uni-Schedule) ![Static Badge](https://img.shields.io/badge/build--blue?style=for-the-badge&logo=fastapi&logoColor=%23009688&label=fastapi&color=%23009688) ![Static Badge](https://img.shields.io/badge/Flutter--White?style=for-the-badge&logo=flutter&color=%2302569B) ![Static Badge](https://img.shields.io/badge/build--blue?style=for-the-badge&logo=postgresql&logoColor=%234169E1&label=postgresql&color=%234169E1)
+     
+  Also Here are my other favorites:
    * [Order Management System](https://github.com/LostyGuy/Order-Management-System) ![Static Badge](https://img.shields.io/badge/build--blue?style=for-the-badge&logo=fastapi&logoColor=%23009688&label=fastapi&color=%23009688) ![Static Badge](https://img.shields.io/badge/Django--green?style=for-the-badge&logo=django&logoColor=%23092E20) ![Static Badge](https://img.shields.io/badge/SQLAlchemy--red?style=for-the-badge&logo=sqlalchemy&logoColor=%23D71F00)
    * [Are you asleep?](https://github.com/LostyGuy/Are-you-asleep)  ![Static Badge](https://img.shields.io/badge/Tkinter--lightgrey?style=for-the-badge)
-   * [Uni Schedule](https://github.com/LostyGuy/Uni-Schedule) ![Static Badge](https://img.shields.io/badge/build--blue?style=for-the-badge&logo=fastapi&logoColor=%23009688&label=fastapi&color=%23009688) ![Static Badge](https://img.shields.io/badge/Flutter--White?style=for-the-badge&logo=flutter&color=%2302569B) ![Static Badge](https://img.shields.io/badge/build--blue?style=for-the-badge&logo=postgresql&logoColor=%234169E1&label=postgresql&color=%234169E1) 
+   
 
 
 
